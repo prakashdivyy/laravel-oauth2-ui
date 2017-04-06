@@ -1,6 +1,6 @@
 {
   "name": "prakashdivyy/laravel-oauth2-ui",
-  "description": "A Laravel 5 service provider for Q5Studio/oauth2-ui",
+  "description": "A Laravel 5 service provider for prakashdivyy/oauth2-ui",
   "type": "library",
   "keywords": [
     "laravel",
