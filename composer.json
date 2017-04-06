@@ -1,0 +1,29 @@
+{
+  "name": "prakashdivyy/laravel-oauth2-ui",
+  "description": "A Laravel 5 service provider for Q5Studio/oauth2-ui",
+  "type": "library",
+  "keywords": [
+    "laravel",
+    "oauth2"
+  ],
+  "homepage": "https://github.com/prakashdivyy/laravel-oauth2-ui",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Prakash Divy",
+      "email": "prakashdivyy@gmail.com",
+      "homepage": "https://blog.prakashdivy.id"
+    }
+  ],
+  "require": {
+    "php": "^5.6 || ^7.0",
+    "illuminate/support": "^5.2",
+    "league/oauth2-instagram": "^2.0",
+    "q5studio/oauth2-ui": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "PrakashDivy\\Laravel\\OAuth2\\UI\\": "src/"
+    }
+  }
+}
