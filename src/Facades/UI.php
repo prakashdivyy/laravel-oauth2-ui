@@ -3,7 +3,7 @@
 namespace PrakashDivy\Laravel\OAuth2\UI\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Q5Studio\OAuth2\Client\Provider\UI as LeagueUI;
+use PrakashDivy\OAuth2\Client\Provider\UI as LeagueUI;
 
 class UI extends Facade
 {

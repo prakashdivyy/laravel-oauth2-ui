@@ -3,7 +3,7 @@
 namespace PrakashDivy\Laravel\OAuth2\UI;
 
 use Illuminate\Support\ServiceProvider;
-use Q5Studio\OAuth2\Client\Provider\UI as LeagueUI;
+use PrakashDivy\OAuth2\Client\Provider\UI as LeagueUI;
 
 class UIServiceProvider extends ServiceProvider
 {
