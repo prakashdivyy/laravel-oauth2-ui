@@ -18,8 +18,7 @@
   "require": {
     "php": "^5.6 || ^7.0",
     "illuminate/support": "^5.2",
-    "league/oauth2-instagram": "^2.0",
-    "q5studio/oauth2-ui": "*"
+    "prakashdivyy/oauth2-ui": "*"
   },
   "autoload": {
     "psr-4": {
